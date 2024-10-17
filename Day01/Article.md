@@ -58,8 +58,7 @@ A special shoutout to @PiyushSachdeva and @CloudOpsCommunity for the inspiration
 
 Interested in the details? Check out these helpful resources:
 
-    GeeksforGeeks - Architecture of Docker
-    Geekflare - Docker Architecture
-    K21 Academy - Docker Components
+https://www.geeksforgeeks.org/architecture-of-docker/
+https://geekflare.com/docker-architecture/ https://k21academy.com/docker-kubernetes/docker-architecture-docker-engine-components-container-lifecycle/   
 
 Let’s continue learning and sharing in this fantastic community! #CloudOps #DevOps #Docker #Kubernetes
