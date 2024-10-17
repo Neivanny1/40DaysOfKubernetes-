@@ -1,6 +1,6 @@
 🚀 Getting Started with Docker: Architecture & Workflow
 
-<img src='./assets/1 Q-9FEZawpzE63afTdtEZ4w.gif'>
+<img src='./assets/arch.gif'>
 
 As part of my journey through the #40DaysOfKubernetes challenge, I’m excited to share some key insights into Docker's architecture and workflow. Docker is a cornerstone in the DevOps world, enabling developers to create, deploy, and manage containerized applications efficiently. Whether you're new to Docker or just looking for a refresher, this article will guide you through the essentials!
 🔍 Understanding Docker Architecture
