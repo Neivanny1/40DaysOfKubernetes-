@@ -11,12 +11,12 @@ Kubernetes follows a master-worker architecture, where the control plane manages
 
 ### Here’s a brief overview of the Control Plane components:
 
-API Server: The frontend of the Kubernetes control plane. It receives all requests (like kubectl commands) and forwards them to the right components.
-etcd: The key-value store that acts as the brain of Kubernetes, storing the cluster's state and configurations.
-Controller Manager: Ensures the actual state of the cluster matches the desired state (like ensuring a Pod restarts if it crashes).
-Scheduler: Assigns newly created Pods to nodes based on resource requirements and availability.
-Kubelet: The agent running on each worker node that ensures containers are running in a Pod.
-Kube Proxy: Manages network communication within the cluster, ensuring proper routing of traffic between Pods and services.
+1. API Server: The frontend of the Kubernetes control plane. It receives all requests (like kubectl commands) and forwards them to the right components.
+2. etcd: The key-value store that acts as the brain of Kubernetes, storing the cluster's state and configurations.
+3. Controller Manager: Ensures the actual state of the cluster matches the desired state (like ensuring a Pod restarts if it crashes).
+4. Scheduler: Assigns newly created Pods to nodes based on resource requirements and availability.
+5. Kubelet: The agent running on each worker node that ensures containers are running in a Pod.
+6. Kube Proxy: Manages network communication within the cluster, ensuring proper routing of traffic between Pods and services.
 
 ### End-to-End Flow of a kubectl Command
 
