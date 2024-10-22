@@ -54,7 +54,7 @@ In Kubernetes, a Pod is the smallest unit of deployment. Each Pod encapsulates o
 #### Kubernetes Documentation: https://kubernetes.io/docs/concepts/overview/
 #### Docker Best Practices: https://docs.docker.com/build/building/best-practices/
 
-Thank you to @PiyushSachdeva and @CloudOps Community for guiding this journey.
+Thank you [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm)
 
 Stay tuned for more learnings on Kubernetes orchestration and deployment in the upcoming tasks!
 

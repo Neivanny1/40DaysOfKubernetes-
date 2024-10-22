@@ -47,6 +47,6 @@ My Learnings 📚
 
 Understanding the limitations of standalone containers and how Kubernetes provides powerful solutions for orchestrating them at scale has been a game-changer. I’ve seen firsthand how Kubernetes simplifies managing large, distributed systems.
 
-Thank you to @PiyushSachdeva and @CloudOps Community for the continued inspiration on this journey!
+Thank you to Tagging[@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm) for the continued inspiration on this journey!
 
 #Kubernetes #DevOps #ContainerOrchestration #40DaysOfKubernetes #CKA

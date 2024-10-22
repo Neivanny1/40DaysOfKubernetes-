@@ -1,5 +1,6 @@
 # Day 6 of 40 Days of Kubernetes: Setting Up a Single and Multi-Node KIND Cluster for Kubernetes
 
+
 Today’s task dives into setting up Kubernetes IN Docker (KIND) for both a single-node and multi-node Kubernetes cluster. KIND is a great tool for local development and testing as it creates Kubernetes clusters inside Docker containers. In this article, I’ll walk you through installing and managing a KIND cluster, running on Kubernetes versions 1.29 and 1.30.
 ## STEP 1
 ### Installing a Single-Node KIND Cluster (Kubernetes 1.29)
@@ -9,7 +10,7 @@ To start, I installed a single-node Kubernetes cluster using KIND. Here’s a qu
 ```
 kind create cluster --image kindest/node:v1.29.0
 ```
-This simple command spins up a Kubernetes cluster in a Docker container.
+Above command spins up a Kubernetes cluster in a Docker container.
 
 3. I used the kubectl get nodes command to verify that the node was up and running:
 ```
@@ -34,7 +35,7 @@ Next, I created a multi-node KIND cluster with the following configuration:
 
 To create the multi-node cluster, I wrote a kind-config.yaml file with the following content:
 ```
-##conf.yaml
+##kind-config.yaml
 
 kind: Cluster
 apiVersion: kind.x-k8s.io/v1alpha4
@@ -86,4 +87,4 @@ Make sure to check out the official video tutorial and the KIND documentation. I
 Stay tuned for more Kubernetes insights as we continue this 40-day journey!
 
 #40daysofkubernetes
-Tagging @PiyushSachdeva and @CloudOps Community.
+Tagging[@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm)
