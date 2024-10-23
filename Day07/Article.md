@@ -105,8 +105,7 @@ kubectl get pods
 2. Troubleshooting Pods: Image pulling errors are common and usually caused by incorrect image names, missing tags, or misconfigured registry credentials.
 3. kubectl apply: Using kubectl apply -f is a robust way to deploy complex Kubernetes configurations, as it allows you to track changes in your YAML files.
 
->>For more best practices on Kubernetes pod management, check out the video embedded above!
-References:
+### References:
 Kubernetes official documentation: https://kubernetes.io/docs/home/
 Docker Hub: Nginx Image:https://hub.docker.com/_/nginx/
 
