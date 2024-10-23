@@ -111,4 +111,4 @@ Docker Hub: Nginx Image:https://hub.docker.com/_/nginx/
 
 ### Share Your Learnings
 
-I encourage you to share your learnings publicly. Feel free to connect and tag me [@Eric mwakazi](https://www.linkedin.com/in/mwakazi-eric), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm), and use the hashtag #40daysofkubernetes.
+I encourage you to share your learnings publicly. Feel free to connect and tag me [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm), and use the hashtag #40daysofkubernetes.
