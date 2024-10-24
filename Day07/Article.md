@@ -1,5 +1,5 @@
 # Day 7 of 40 Days of Kubernetes: Creating, Modifying, and Troubleshooting Pods in Kubernetes ☸️
-<img src='./assets/DALL·E 2024-10-23 16.07.13 - A professional LinkedIn cover photo for a blog post about Kubernetes pod creation and troubleshooting. The design should feature a modern, clean tech -1.webp'>
+<img src='https://img.youtube.com/vi/_f9ql2Y5Xcc/sddefault.jpg'>
 
 Today’s focus was on learning how to create and modify pods in Kubernetes using both imperative commands and declarative YAML files, along with troubleshooting pod issues. Below is a summary of what I accomplished, along with the steps and insights gained along the way.
 
