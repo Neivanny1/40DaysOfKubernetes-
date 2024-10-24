@@ -1,4 +1,6 @@
-How To Dockerize a Project: Step-by-Step Guide 🚀
+# Day 2 of 40 Days of Kubernetes: 🚀 How To Dockerize a Project: Step-by-Step Guide 🚀 🌐☸️
+
+<img src='./assets/2.png'>
 
 In today’s #40DaysOfKubernetes challenge, I’ll show you how to Dockerize an application by walking through each command and its explanation. Additionally, I’ll explore the docker init command, which simplifies Dockerization, and I’ll provide a link to my GitHub repository containing the Dockerfile for reference.
 
@@ -57,9 +59,9 @@ docker images
 ## Step 4: Push the Image to Docker Hub
 
 Now that the image is built, let’s make it accessible to others by pushing it to Docker Hub. First, log in to your Docker account:
-
+```
 docker login
-
+```
 Tag the image with your Docker Hub username and repository name:
 ```
 docker tag my-dockerized-app:latest yourusername/my-dockerized-app:latest
@@ -75,13 +77,13 @@ Run the container locally and expose port 3000 with this command:
 ```
 docker run -dp 3000:3000 yourusername/my-dockerized-app:latest
 ```
-Explanation:
+#### Explanation:
 
     -d: Runs the container in detached mode (in the background).
     -p 3000:3000: Maps port 3000 on your local machine to port 3000 on the container.
 
 Visit http://localhost:3000 in your browser to see the app running.
-Step 6: Exploring the docker init Command
+## Step 6: Exploring the docker init Command
 
 Docker provides an easy way to generate Dockerfiles using the docker init command. This command analyzes your project and generates a Dockerfile automatically.
 

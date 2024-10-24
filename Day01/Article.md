@@ -1,9 +1,12 @@
-🚀 Getting Started with Docker: Architecture & Workflow
+# Day 1 of 40 Days of Kubernetes: 🚀 Getting Started with Docker: Architecture & Workflow 🌐☸️
 
-<img src='./assets/arch.gif'>
+
+<img src='./assets/1.png'>
 
 As part of my journey through the #40DaysOfKubernetes challenge, I’m excited to share some key insights into Docker's architecture and workflow. Docker is a cornerstone in the DevOps world, enabling developers to create, deploy, and manage containerized applications efficiently. Whether you're new to Docker or just looking for a refresher, this article will guide you through the essentials!
 🔍 Understanding Docker Architecture
+
+<img src='./assets/arch.gif'>
 
 Docker’s architecture consists of several core components that work together to ensure smooth containerized application management. Here’s a quick breakdown:
 1. Docker Client

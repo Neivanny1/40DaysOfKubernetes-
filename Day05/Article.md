@@ -1,5 +1,5 @@
 # Day 5 of 40 Days of Kubernetes: Kubernetes Architecture and Control Plane Components 🌐☸️
-<img src='./assets/DALL·E 2024-10-21 17.52.20 - A Kubernetes architecture diagram showing the control plane and worker nodes. The control plane should include components such as the API Server, etcd.webp'>
+<img src='./assets/5.png'>
 
 For Day 5 of the #40DaysOfKubernetes challenge, I explored the architecture of Kubernetes, created an architecture diagram, and learned about the control plane components that manage the cluster.
 

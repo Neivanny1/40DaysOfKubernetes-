@@ -1,5 +1,6 @@
 # Day 6 of 40 Days of Kubernetes: Setting Up a Single and Multi-Node KIND Cluster for Kubernetes
 
+<img src='./assets/6.png'>
 
 Today’s task dives into setting up Kubernetes IN Docker (KIND) for both a single-node and multi-node Kubernetes cluster. KIND is a great tool for local development and testing as it creates Kubernetes clusters inside Docker containers. In this article, I’ll walk you through installing and managing a KIND cluster, running on Kubernetes versions 1.29 and 1.30.
 ## STEP 1
