@@ -45,7 +45,7 @@ I encountered and resolved common YAML errors while deploying new resources and 
 
 Make sure to follow along for more updates as I continue the #40daysofkubernetes challenge!
 
-🎥 Check out the video for Day 6 here: Watch Now
+## 🎥 Check out the video for Day 6 here: Watch Now
 [![Day 7/40 - Single and Multi-Node KIND Cluster](https://img.youtube.com/vi/oe2zjRb51F0/sddefault.jpg)](https://youtu.be/oe2zjRb51F0)
 
 ### References:
