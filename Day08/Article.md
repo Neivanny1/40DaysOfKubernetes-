@@ -1,6 +1,6 @@
-# Day 8 of 40 Days of Kubernetes: Deployment with multiple replicas. in Kubernetes ☸️
+# Day 8 of 40 Days of Kubernetes: Replication Controller, ReplicatSet and Deployment  ☸️
 
-<img src="./assets/DALL·E 2024-10-24 12.20.33 - A professional LinkedIn cover image for an article about Kubernetes, focusing on ReplicaSets and Deployments. The image should include visual elements.webp">
+<img src="https://img.youtube.com/vi/oe2zjRb51F0/sddefault.jpg">
 
 For Day 8/40 of the #40daysofkubernetes challenge, I focused on creating and managing Kubernetes ReplicaSets and Deployments. Here’s a breakdown of what I learned and the steps I took:
 
