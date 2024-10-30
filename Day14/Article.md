@@ -1,4 +1,4 @@
-Day 14/40 - Taints and Tolerations in Kubernetes 📘🚀
+# Day 14/40 - Taints and Tolerations in Kubernetes 📘🚀
 <img src='./assets/14.png'>
 
 As I continue with the #40daysofkubernetes challenge, today's exploration focused on Taints and Tolerations—crucial concepts for managing pod scheduling in Kubernetes. Here’s an overview of what I learned and how I implemented these tools.
