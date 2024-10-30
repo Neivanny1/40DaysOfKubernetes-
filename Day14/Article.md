@@ -58,11 +58,11 @@ While taints and tolerations are powerful, they have limitations. They don't sup
 
 To explore these concepts further, check out the Day 14 video on Taints and Tolerations in Kubernetes:
 
-Day 14/40 - Taints and Tolerations in Kubernetes
-Practical Application of Today’s Learnings
+
 [![Day14/40 - Taints and Tolerations in Kubernetes](https://img.youtube.com/vi/nwoS2tK2s6Q/sddefault.jpg)](https://youtu.be/nwoS2tK2s6Q)
 
-
+## Day 14/40 - Taints and Tolerations in Kubernetes
+Practical Application of Today’s Learnings
 Today's insights are essential for fine-tuning pod scheduling and ensuring optimal resource utilization across Kubernetes clusters. By mastering taints and tolerations, I can more effectively manage workloads and improve the overall efficiency of my deployments.
 
 [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm)
