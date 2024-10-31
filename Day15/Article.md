@@ -8,11 +8,12 @@ As I move forward with the #40daysofkubernetes challenge, today’s focus was on
 
 While Node Selectors allow simple pod placement based on node labels, Node Affinity offers greater flexibility and control over pod scheduling. With Node Affinity, I can specify exact conditions for where my pods should or should not be placed, providing precise management over pod locations within the Kubernetes cluster.
 
-## Node Affinity Types 🔑 requiredDuringSchedulingIgnoredDuringExecution:
+## Node Affinity Types 🔑 
+### 1. requiredDuringSchedulingIgnoredDuringExecution:
 1. Strict Placement: Ensures that pods only schedule on nodes with specified labels.
 2. No Runtime Checks: Labels aren’t checked after the pod is running, so if a node’s labels change, the pod remains in place.
 
-## preferredDuringSchedulingIgnoredDuringExecution:
+###  2. preferredDuringSchedulingIgnoredDuringExecution:
 1. Preferred Placement: This rule sets “preferences” for node selection. If no nodes meet these preferences, Kubernetes still schedules the pod to the best match available.
 
 ## Practical Example: Node Affinity with Required Scheduling
