@@ -1,6 +1,6 @@
 # Day 19/40 - ConfigMaps and Secrets in Kubernetes 🔐
 
-<img src='./assets/18.png'>
+<img src='./assets/19.png'>
 
 Today's journey in Kubernetes centered on ConfigMaps and Secrets—two essential objects for handling configuration data and sensitive information in a secure, organized way. These resources help in managing configuration and credentials outside of the application code, improving maintainability, security, and flexibility.
 
