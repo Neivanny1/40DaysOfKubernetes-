@@ -48,4 +48,5 @@ In a real-world scenario, both HPA and VPA can work in tandem for advanced scala
 What are your thoughts on using HPA and VPA in your Kubernetes setup? Share your experiences, and don’t forget to tag 
 [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm)
 
+
 #40daysofkubernetes #Kubernetes #Autoscaling #DevOps #CloudComputing #Microservices
