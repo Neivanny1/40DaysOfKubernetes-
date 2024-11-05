@@ -53,4 +53,5 @@ Practical Uses:
 
 If you’re managing sensitive information or complex configurations in Kubernetes, ConfigMaps and Secrets are game changers! Share your thoughts and experiences using #40daysofkubernetes, and tag [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm)
 
+
 #Kubernetes #DevOps #40DaysOfKubernetes #ConfigMaps #Secrets #CloudComputing #Security
