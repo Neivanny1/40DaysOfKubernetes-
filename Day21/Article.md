@@ -31,23 +31,35 @@ Command to decode the certificate:
 ```
 kubectl get csr <csr-name> -o jsonpath='{.status.certificate}' | base64 --decode > learner.crt
 ```
-8. Verification and Next Steps
-        Verified each step of the certificate creation and approval process.
-        This setup forms the basis for further secure communications, with additional steps to come in Day 22.
+## Verification and Next Steps
+Verified each step of the certificate creation and approval process.
+This setup forms the basis for further secure communications, with additional steps to come in Day 22.
 
 ## 📘 Key Takeaways on TLS in Kubernetes
-
-    PKI (Public Key Infrastructure): The foundation of secure communications, essential for managing TLS certificates.
-    Certificate Approval Process: Required for Kubernetes components to ensure that communication within the cluster is secure.
-    Control Plane Components: TLS certificates play a key role in the security of control plane components, ensuring secure data exchange across the cluster.
+1. PKI (Public Key Infrastructure): The foundation of secure communications, essential for managing TLS certificates.
+2. Certificate Approval Process: Required for Kubernetes components to ensure that communication within the cluster is secure.
+3. Control Plane Components: TLS certificates play a key role in the security of control plane components, ensuring secure data exchange across the cluster.
 
 ## 💡 Commands and Resources
 
-    Generate Key: openssl genrsa -out <filename>.key 2048
-    Generate CSR: openssl req -new -key <filename>.key -out <filename>.csr -subj "/CN=<common-name>"
-    Approve CSR: kubectl certificate approve <csr-name>
-    Deny CSR: kubectl certificate deny <csr-name>
-    Kubernetes Documentation on CSR
+1. Generate Key:
+```
+openssl genrsa -out <filename>.key 2048
+```
+2. Generate CSR:
+```
+openssl req -new -key <filename>.key -out <filename>.csr -subj "/CN=<common-name>"
+```
+3. Approve CSR:
+```
+kubectl certificate approve <csr-name>
+```
+4. Deny CSR:
+```
+kubectl certificate deny <csr-name>
+```
+## Kubernetes Documentation on CSR
+https://kubernetes.io/docs/reference/access-authn-authz/certificate-signing-requests/
 
 ## Video Reference
 
