@@ -54,6 +54,7 @@ kubectl auth can-i get nodes --as adam
 ## 📽️ Video Reference
 
 For a detailed walkthrough, check out the Day 24 video on Kubernetes ClusterRoles and ClusterRoleBindings:
+
 [![Day Day 23/40 - Kubernetes RBAC Continued - Clusterrole and Clusterrole Binding ](https://img.youtube.com/vi/DswQe7shSa4/sddefault.jpg)](https://youtu.be/DswQe7shSa4)
 
 ## 🔗 Share Your Insights
