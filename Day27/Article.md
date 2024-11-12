@@ -18,7 +18,8 @@ There are several ways to install Kubernetes, but in this demo, we’ll be focus
 ### Requirements:
 
 1. VMs (1 Master, 2 Workers)
-2. Security Groups: If using AWS EC2, configure 3. 2 security groups for your nodes and set specific port allowances (Kubernetes Network Portshttps://kubernetes.io/docs/reference/networking/ports-and-protocols/).
+2. Security Groups: If using AWS EC2, configure 3. 2 security groups for your nodes and set specific port allowances [Kubernetes Network Ports](https://kubernetes.io/docs/reference/networking/ports-and-protocols/).
+
 
 ### Step 1: SSH into Master Node
 
