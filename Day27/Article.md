@@ -110,6 +110,6 @@ kubectl get pods -A
 
 ## Sharing the Journey
 
-As part of this challenge, I’ll be sharing key insights on social media! Check out my post on LinkedIn or Twitter, where I tag [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm) to join the discussion.
+As part of this challenge, I’ll be sharing key insights on social media! Check out my post where I tag [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm) to join the discussion.
 
 #40daysofkubernetes #Kubernetes
