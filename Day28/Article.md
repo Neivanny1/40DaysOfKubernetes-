@@ -64,4 +64,4 @@ Check out the video on Docker Volumes below for additional context.
 
 ## Sharing Progress
 
-I’ve documented today’s learning in this blog post and will be sharing it on LinkedIn and Twitter. Tagging As part of this challenge, I’ll be sharing key insights on social media! Check out my post where I tag [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm) to join the discussion with the hashtag #40daysofkubernetes.
+I’ve documented today’s learning in this blog post on LinkedIn. Tagging As part of this challenge, I’ll be sharing key insights on social media! Check out my post where I tag [@Eric mwakazi](https://www.linkedin.com/in/eric-mwakazi), [@PiyushSachdeva](https://www.linkedin.com/in/piyush-sachdeva) and [@CloudOps Community](https://www.linkedin.com/company/thecloudopscomm) to join the discussion with the hashtag #40daysofkubernetes.
